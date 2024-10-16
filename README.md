@@ -4,6 +4,7 @@
 ### Date: 
 
 
+
 ### AIM:
 To implement Moving Average Model and Exponential smoothing Using Python.
 ### ALGORITHM:
